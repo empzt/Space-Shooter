@@ -687,11 +687,11 @@ MonoBehaviour:
     zMin: -4
     zMax: 8
   tilts:
-    xtilt: 4
-    ztilt: 4
+    xtilt: 3
+    ztilt: 1
   shot: {fileID: 124590, guid: d42d9892f29393244982ef1354ebac1e, type: 2}
   shotSpawn: {fileID: 1980631801}
-  fireRate: 0.2
+  fireRate: 0.1
 --- !u!4 &1618558867 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: d9808401c68af274a8edfbed3d1b53c7, type: 3}
